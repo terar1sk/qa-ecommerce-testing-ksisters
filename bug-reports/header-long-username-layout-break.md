@@ -33,6 +33,9 @@ Long text should be truncated, limited, or handled responsively.
 ### Header layout with long user name (100 characters)
 ![Header layout break](../assets/screenshots/header-long-username-layout-break.png)
 
+### Video reproduction
+[Watch video](../assets/recordings/header-long-username-layout-break.mp4)
+
 ## Severity / Priority
 Severity: Medium
 Priority: Medium
